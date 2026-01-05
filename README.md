@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0136-single-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
