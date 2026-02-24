@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0493-reverse-pairs) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
