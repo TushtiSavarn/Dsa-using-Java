@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0704-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
