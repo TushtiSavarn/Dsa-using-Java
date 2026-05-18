@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0088-merge-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -147,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
