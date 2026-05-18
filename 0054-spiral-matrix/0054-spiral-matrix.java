@@ -1,24 +1,51 @@
-public class Solution {
+class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        int m = matrix.length, n = matrix[0].length;
-        List<Integer> res = new ArrayList<>();
 
-        // append all the elements in the given direction
-        dfs(m, n, 0, -1, 0, 1, matrix, res);
-        return res;
-    }
+        List<Integer> ans = new ArrayList<>();
 
-    private void dfs(int row, int col, int r, int c,
-                     int dr, int dc, int[][] matrix, List<Integer> res) {
-        if (row == 0 || col == 0) return;
+        int top = 0;
+        int bottom = matrix.length - 1;
 
-        for (int i = 0; i < col; i++) {
-            r += dr;
-            c += dc;
-            res.add(matrix[r][c]);
+        int left = 0;
+        int right = matrix[0].length - 1;
+
+        while(top <= bottom && left <= right)
+        {
+            // left -> right
+            for(int i=left; i<=right; i++)
+            {
+                ans.add(matrix[top][i]);
+            }
+            top++;
+
+            // top -> bottom
+            for(int i=top; i<=bottom; i++)
+            {
+                ans.add(matrix[i][right]);
+            }
+            right--;
+
+            // right -> left
+            if(top <= bottom)
+            {
+                for(int i=right; i>=left; i--)
+                {
+                    ans.add(matrix[bottom][i]);
+                }
+                bottom--;
+            }
+
+            // bottom -> top
+            if(left <= right)
+            {
+                for(int i=bottom; i>=top; i--)
+                {
+                    ans.add(matrix[i][left]);
+                }
+                left++;
+            }
         }
 
-        // sub-problem
-        dfs(col, row - 1, r, c, dc, -dr, matrix, res);
+        return ans;
     }
 }
