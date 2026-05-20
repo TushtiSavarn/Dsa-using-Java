@@ -1,17 +1,19 @@
 class Solution {
-    public int search(int[] nums, int key) {
-        int low = 0, high = nums.length - 1;
-        int mid;
-
-        while (low <= high) {
-            mid = low + (high - low) / 2;   // safe mid calculation
-
-            if (key == nums[mid])
+    public int search(int[] nums, int target) {
+        int l=0;
+        int h=nums.length-1;
+        
+        while(l<=h)
+        {
+            int mid=l+(h-l)/2;
+            if(nums[mid]==target)
                 return mid;
-            else if (key < nums[mid])
-                high = mid - 1;
+            else if(nums[mid]<target)
+               l=mid+1;
             else
-                low = mid + 1;
+                h=mid-1;
+            
+
         }
         return -1;
     }
