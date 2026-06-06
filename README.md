@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0704-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
