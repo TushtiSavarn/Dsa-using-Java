@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
