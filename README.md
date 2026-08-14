@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
+| [0796-rotate-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
