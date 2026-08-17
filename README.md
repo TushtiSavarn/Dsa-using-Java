@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -231,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
