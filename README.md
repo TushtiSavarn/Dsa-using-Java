@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0205-isomorphic-strings) |
