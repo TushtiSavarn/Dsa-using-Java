@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
