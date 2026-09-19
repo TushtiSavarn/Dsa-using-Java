@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
