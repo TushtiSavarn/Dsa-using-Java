@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0090-subsets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
