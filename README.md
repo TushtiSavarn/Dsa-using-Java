@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0796-rotate-string) |
