@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0796-rotate-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
