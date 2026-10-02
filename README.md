@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
