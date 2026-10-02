@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0455-assign-cookies) |
 ## Counting
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/1013-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0704-binary-search) |
