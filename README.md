@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TushtiSavarn/Dsa-using-c-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -298,9 +299,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
