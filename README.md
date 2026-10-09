@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0232-implement-queue-using-stacks) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/TushtiSavarn/Dsa-using-Java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
